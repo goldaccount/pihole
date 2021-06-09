@@ -1,0 +1,85 @@
+Rn0uhRTF
+pi.hole/admin
+192.168.1.9/admin
+
+
+
+---------------------------------------------------------------------------------
+  [✓] Enabling lighttpd service to start on reboot...
+  [✓] Creating group 'pihole'
+  [✓] Adding user 'pihole' to group 'pihole'
+
+  [i] FTL Checks...
+
+  [✓] Detected ARMv6 processor (with hard-float support)
+  [i] Checking for existing FTL binary...
+  [✓] Downloading and Installing FTL
+  [✓] Installing scripts from /etc/.pihole
+
+  [i] Installing configs from /etc/.pihole...
+  [✓] No dnsmasq.conf found... restoring default dnsmasq.conf...
+  [✓] Copying 01-pihole.conf to /etc/dnsmasq.d/01-pihole.conf
+
+  [i] Installing blocking page...
+  [✓] Creating directory for blocking page, and copying files
+  [✓] Backing up index.lighttpd.html
+
+  [✓] Installing sudoer file
+
+  [✓] Installing latest Cron script
+
+  [✓] Installing latest logrotate script
+  [i] Backing up /etc/dnsmasq.conf to /etc/dnsmasq.conf.old
+  [✓] man pages installed and database updated
+  [i] Testing if systemd-resolved is enabled
+  [i] Systemd-resolved is not enabled
+  [✓] Restarting lighttpd service...
+  [✓] Enabling lighttpd service to start on reboot...
+  [i] Restarting services...
+  [✓] Enabling pihole-FTL service to start on reboot...
+  [✓] Restarting pihole-FTL service...
+  [i] Creating new gravity database
+  [i] Migrating content of /etc/pihole/adlists.list into new database
+  [✓] Deleting existing list cache
+  [i] Neutrino emissions detected...
+  [✓] Pulling blocklist source list into range
+
+  [✓] Preparing new gravity database
+  [i] Using libz compression
+
+  [i] Target: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+  [✓] Status: Retrieval successful
+  [i] Analyzed 82723 domains
+
+  [✓] Storing downloaded domains in new gravity database
+  [✓] Building tree
+  [✓] Swapping databases
+  [i] Number of gravity domains: 82723 (82723 unique domains)
+  [i] Number of exact blacklisted domains: 0
+  [i] Number of regex blacklist filters: 0
+  [i] Number of exact whitelisted domains: 0
+  [i] Number of regex whitelist filters: 0
+  [✓] Flushing DNS cache
+  [✓] Cleaning up stray matter
+
+  [✓] DNS service is listening
+     [✓] UDP (IPv4)
+     [✓] TCP (IPv4)
+     [✓] UDP (IPv6)
+     [✓] TCP (IPv6)
+
+  [i] Pi-hole blocking will be enabled
+  [i] Enabling blocking
+  [✓] Flushing DNS cache
+  [✓] Pi-hole Enabled
+  [i] Web Interface password: Rn0uhRTF  [i] Web Interface password: Rn0uhRTF
+  [i] This can be changed using 'pihole -a -p'
+
+  [i] View the web interface at http://pi.hole/admin or http://192.168.1.9/admin
+
+  [i] You may now configure your devices to use the Pi-hole as their DNS server
+  [i] Pi-hole DNS (IPv4): 192.168.1.9
+  [i] If you set a new IP address, please restart the server running the Pi-hole
+
+  [i] The install log is located at: /etc/pihole/install.log
+Installation Complete!
