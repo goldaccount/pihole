@@ -1,0 +1,15 @@
+#backend server for Adguard for Windows and Mac.
+#Newer versions use api.adguard.com instead (just a CNAME of adtidy.org)
+adtidy.org
+
+#backend server for Web of Trust extension.
+rating.adguard.com
+
+#backend server for Adguard for Android/iOS.
+mobile.adtidy.org
+
+#backend server for browser extensions
+chrome.adtidy.org
+
+#browsing security web service, used to check if domain is blacklisted or not
+sb.adtidy.org

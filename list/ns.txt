@@ -1,0 +1,10 @@
+(\.|^)s3t3d2y7\.ackcdn\.net$
+(\.|^)static\.javhd\.com$
+(\.|^)hw-cdn2\.adtng\.com$
+(\.|^)realsrv\.com$
+(\.|^)api\.trwl1\.com$
+(\.|^)safebrowsing\.googleapis\.com$
+(\.|^)sffsdvc\.com$
+(\.|^)midastouchrt\.com$
+(\.|^)adpmbglobal\.com$
+(\.|^)goasrv\.com$
