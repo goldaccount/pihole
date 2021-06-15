@@ -844,9 +844,6 @@
 0.0.0.0 sphotos-b.xx.fbcdn.net
 0.0.0.0 sphotos.xx.fbcdn.net
 0.0.0.0 sphotosbord.xx.fbcdn.net
-0.0.0.0 ssl.connect.facebook.com
-0.0.0.0 ssl.facebook.com
-0.0.0.0 star-mini.c10r.facebook.com
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 star.facebook.com
 0.0.0.0 static.ak.connect.facebook.com
