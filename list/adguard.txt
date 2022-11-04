@@ -2715,7 +2715,6 @@ mintake.com
 moguldom.com
 moneyplatform.biz
 mtburn.com
-mxtads.com:8040
 myadshub.com
 mybinarysystem.com
 myvpn.pro
@@ -2873,12 +2872,8 @@ go.mobiprotg.com
 adrunnr.com
 large-format.net
 november-lax.com
-
 samsungads.com
 samsungtvads.com
-
-
-
 d2fbvay81k4ji3.cloudfront.net
 centent.streanplay.cc
 x2sfa.javgg.eu
@@ -17333,8 +17328,6 @@ zemanta.com
 zeropark.com
 ziffdavis.com
 zwaar.org
-:34.66.206.188
-:35.224.227.218
 51.77.227.100
 51.77.227.101
 51.77.227.102
@@ -18651,9 +18644,7 @@ zlinkm.com
 zlinkv.com
 zryydi.com
 zugnogne.com
-142.91.,domain=~in-addr.arpa
 142.91.159.107
-172.255.6.,domain=~in-addr.arpa
 176.31.68.242
 185.147.34.126
 23.109.82.104
@@ -18662,8 +18653,6 @@ zugnogne.com
 51.178.195.171
 51.195.115.102
 51.89.115.13
-/
-/
 18naked.com
 4link.it
 777-partner.com
