@@ -1,0 +1,3 @@
+firmware.fbox.fpt.vn
+ads-partner.fbox.fpt.vn
+logs.fbox.fpt.vn

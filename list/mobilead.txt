@@ -1,3 +1,5 @@
+connectivitycheck.gstatic.com
+screentime.comm.miui.com
 01.static.xsf.ximxim.com
 02.static.xsf.ximxim.com
 04.static.xsf.ximxim.com

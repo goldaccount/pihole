@@ -1,26 +1,27 @@
-0.0.0.0 any-graph.facebook.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 www.graph.facebook.com
-0.0.0.0 analytics-m.fbjs.facebook.com
-0.0.0.0 analytics.facebook.com
-0.0.0.0 analytics.intern.facebook.com
-0.0.0.0 giphy-analytics.giphy.com
-0.0.0.0 giphy_analytics.giphy.com
-0.0.0.0 ads.facebook.com
-0.0.0.0 ads.fbsbx.com
-0.0.0.0 gps.facebook.com
-0.0.0.0 graph-portal.facebook.com
-0.0.0.0 graph-simple.intern.facebook.com
-0.0.0.0 graph-video.beta.facebook.com
-0.0.0.0 graph-video.facebook.com
-0.0.0.0 graph.alpha.facebook.com
-0.0.0.0 graph.beta.facebook.com
-0.0.0.0 graph.cinyour.facebook.com
-0.0.0.0 graph.fb.me
-0.0.0.0 graph.fbpigeon.com
-0.0.0.0 graph.instagram.com
-0.0.0.0 graph.messenger.com
-0.0.0.0 graph.oculus.com
-0.0.0.0 graph.prod.facebook.com
-0.0.0.0 graph.secure.facebook.com
-0.0.0.0 graph.whatsapp.com
+mqtt-mini.facebook.com
+any-graph.facebook.com
+graph.facebook.com
+www.graph.facebook.com
+analytics-m.fbjs.facebook.com
+analytics.facebook.com
+analytics.intern.facebook.com
+giphy-analytics.giphy.com
+giphy_analytics.giphy.com
+ads.facebook.com
+ads.fbsbx.com
+gps.facebook.com
+graph-portal.facebook.com
+graph-simple.intern.facebook.com
+graph-video.beta.facebook.com
+graph-video.facebook.com
+graph.alpha.facebook.com
+graph.beta.facebook.com
+graph.cinyour.facebook.com
+graph.fb.me
+graph.fbpigeon.com
+graph.instagram.com
+graph.messenger.com
+graph.oculus.com
+graph.prod.facebook.com
+graph.secure.facebook.com
+graph.whatsapp.com

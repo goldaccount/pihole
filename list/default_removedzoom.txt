@@ -36,7 +36,17 @@ ff02::3 ip6-allhosts
 #=====================================
 # Hosts contributed by Steven Black
 # http://stevenblack.com
-
+kenh14.vn
+cdn.bncloudfl.com
+metrics.redgifs.com
+gstaticadssl.l.google.com
+mss.handmark.com
+ctldl.windowsupdate.com
+userlocation.googleapi.com
+qos-talk.123c.vn
+appchopc.com
+self.events.data.microsoft.com
+calendarpushsubscription-pa.googleapis.com
 0.0.0.0 n2019cov.000webhostapp.com
 0.0.0.0 webmail-who-int.000webhostapp.com
 0.0.0.0 010sec.com
