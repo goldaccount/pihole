@@ -1,5 +1,4 @@
 7.googlevideo.com
-clients6.google.com
 e.googlevideo.com
 googlevideo.com
 i1.ytimg.com
