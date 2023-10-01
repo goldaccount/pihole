@@ -1,0 +1,44 @@
+version: '3.5'
+services:
+  pihole:
+    image: pihole/pihole:2023.05.2
+    container_name: pihole
+    ports:
+      - target: 80
+        published: 5380
+        protocol: tcp
+      - target: 53
+        published: 5353
+        protocol: udp
+    volumes:
+      - type: bind
+        source: ./pihole/pihole
+        target: /etc/pihole
+        read_only: false
+      - type: bind
+        source: ./pihole/dnsmasq.d
+        target: /etc/dnsmasq.d
+        read_only: false
+    cpu_count: 2
+    mem_limit: 256M
+    networks:
+      net-pihole:
+        aliases: [pihole]
+    environment:
+      TZ: 'UTC+7'
+      WEBPASSWORD: 'Fuck.you @ds'
+      DHCP_ACTIVE: false
+#      PIHOLE_DNS_: 9.9.9.9; 1.1.1.1
+      DNSSEC: 'true'
+      RATE_LIMIT: '10000/60'
+    restart: 'unless-stopped'
+networks:
+  net-pihole:
+    name: net-pihole
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 172.20.1.4/30
+          ip_range: 172.20.1.4/30
+          gateway: 172.20.1.5
