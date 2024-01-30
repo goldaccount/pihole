@@ -16672,7 +16672,6 @@ godloveme.cn
 godspeaks.net
 goember.com
 goemotify.com
-gofile.io
 gogolm.xyz
 go.gogolm.xyz
 gogoplexer.com
@@ -28689,7 +28688,6 @@ pixanalytics.com
 pixazza.com
 pixel.ad
 pixel.watch
-fathom.pixeldrain.com
 pixeleze.com
 pixelinteractivemedia.com
 pixel-hk.pixelinteractivemedia.com
